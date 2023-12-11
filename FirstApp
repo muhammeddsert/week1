@@ -1,5 +1,0 @@
-string myName = "Vladislav";
-
-//Console.WriteLine("Hello " + myName);
-
-Console.WriteLine($"Hello,{myName}!");
